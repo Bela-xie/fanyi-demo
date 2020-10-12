@@ -1,3 +1,5 @@
-### 1.   npm i fanyi-demo -g
+一个命令行翻译工具，使用方法如下：
 
-### 2.   fy \<content>
+### 第一步   npm i fanyi-demo -g
+
+### 第二步   fy \<content>
